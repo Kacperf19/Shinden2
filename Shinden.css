@@ -88,7 +88,7 @@ body.anime, body.manga, body.novel, body.settings {
   background-color: rgba(255, 255, 255, 0.25);
 }
 .ReactTable.list-table .rt-table .list-rows button {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.3);
   border-color: black;
   color: white;
 }
